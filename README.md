@@ -1,8 +1,9 @@
-## Hi, I'm Maeve
-
-Software Technology Student at St. Aloysius AIMIT (Deemed to be University) <br>
-I develop apps and websites to keep up with the industry <br>
-I work at UNYK Studio as a Web Developer & Video Editior <br>
+Hi, I'm Maeve Fernandes 👩‍💻
+🎓 MSc Software Technology Student at St. Aloysius College, AIMIT
+💼 Web Developer & Video Editor at UNYK Studio
+🌐 Focused on crafting high-quality apps and websites
+📚 Continuously expanding my skills to stay ahead in the tech industry
+🤝 Open to collaborations, projects, and new opportunities!
 
 # 💫 About Me:
 Software Technology Student at St. Aloysius AIMIT (Deemed to be University) <br><br>I develop apps and websites to keep up with the industry <br><br>I work at UNYK Studio as a Web Developer & Video Editior <br>
