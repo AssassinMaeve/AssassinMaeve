@@ -1,13 +1,9 @@
-Hi, I'm Maeve Fernandes 👩‍💻
+# Hi, I'm Maeve Fernandes 👩‍💻
 🎓 MSc Software Technology Student at St. Aloysius College, AIMIT<br>
 💼 Web Developer & Video Editor at UNYK Studio<br>
 🌐 Focused on crafting high-quality apps and websites<br>
 📚 Continuously expanding my skills to stay ahead in the tech industry<br>
 🤝 Open to collaborations, projects, and new opportunities!<br>
-
-# 💫 About Me:
-Software Technology Student at St. Aloysius AIMIT (Deemed to be University) <br><br>I develop apps and websites to keep up with the industry <br><br>I work at UNYK Studio as a Web Developer & Video Editior <br>
-
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/maevefernandes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/assassinmaeve?igsh=dmMxcWoydG1oY2Fx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maeve-fernandes?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maeve.fernandes.007@gmail.com) 
