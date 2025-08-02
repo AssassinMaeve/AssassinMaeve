@@ -1,4 +1,4 @@
-# Hi, I'm Maeve Fernandes 👩‍💻
+# Hi, I'm Maeve Fernandes 👩‍💻 
 🎓 MSc Software Technology Student at St. Aloysius College, AIMIT<br>
 💼 Web Developer & Video Editor at UNYK Studio<br>
 🌐 Focused on crafting high-quality apps and websites<br>
