@@ -21,13 +21,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AssassinMaeve&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-## 🐍 Contribution Snake
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/AssassinMaeve/AssassinMaeve/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light"/>
   <img src="https://raw.githubusercontent.com/AssassinMaeve/AssassinMaeve/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark"/>
-</p>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AssassinMaeve&icon=0&color=0)](https://visitcount.itsvg.in)
